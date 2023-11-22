@@ -1,0 +1,44 @@
+## FlyBase Gene Snapshot Report
+## Generated: Mon Mar 27 06:43:49 2023
+## Using datasource: dbi:Pg:dbname=fb_2023_02_reporting;host=flysql25;port=5432...
+## Genes that currently do not have a gene snapshot are included in this file and marked with "Contributions welcome." in the gene_snapshot_text column.
+##FBgn_ID	GeneSymbol	GeneName	datestamp	gene_snapshot_text
+FBgn0053696	CNMaR	CNMamide Receptor	20190801	CNMamide Receptor (CNMaR) encodes a G-protein coupled receptor for the neuropeptide encoded by CNMa.
+FBgn0035331	MsR1	Myosuppressin receptor 1	20190314	Myosuppressin receptor 1 (MsR1) encodes a class A transmembrane G protein coupled receptor that binds the neuropeptide ligand encoded by Ms and acts through the adenylate cyclase-inhibiting GPCR signaling pathway. It inhibits visceral muscle contraction, and negatively regulates cardiac contractility and gut motility.
+FBgn0264002	MsR2	Myosuppressin receptor 2	20190314	Myosuppressin receptor 2 (MsR2) encodes a G protein coupled receptor activated by the product of Ms (TDVDHVFLRFamide). It elevates neurotransmitter release in motor neurons and aids larval escape responses to light.
+FBgn0035385	FMRFaR	FMRFamide Receptor	20190307	FMRFamide Receptor (FMRFaR) encodes a G protein coupled receptor activated by all FMRFamide peptides. It contributes to neurotransmitter release, muscle contraction, and larval escape responses to light.
+FBgn0004841	TkR86C	Tachykinin-like receptor at 86C	-	Contributions welcome.
+FBgn0004622	TkR99D	Tachykinin-like receptor at 99D	-	Contributions welcome.
+FBgn0038880	SIFaR	SIFamide receptor	20190314	SIFamide receptor (SIFaR) encodes a G-protein coupled peptide receptor involved in both the neuropeptide and the G-protein coupled receptor signaling pathways. It is required for sensory perception of pain, determination of lifespan and sexual behavior.
+FBgn0037408	NPFR	Neuropeptide F receptor	-	Contributions welcome.
+FBgn0033058	CCHa2-R	CCHamide-2 receptor	-	Contributions welcome.
+FBgn0037100	CapaR	Capability receptor	20190307	Capability receptor (CapaR) encodes a G-protein-coupled receptor for the neuropeptide encoded by Capa, which stimulates fluid secretion in Malpighian tubules, thus acting as a diuretic hormone.
+FBgn0036790	AstC-R1	Allatostatin C receptor 1	20190801	Allatostatin C receptor 1 (AstC-R1) encodes G-protein coupled receptor for the neuropeptide encoded by AstC.
+FBgn0039595	AstA-R2	Allatostatin A receptor 2	20181108	Allatostatin A receptor 2 (AstA-R2) encodes a receptor of the neuropeptide encoded by AstA. The interaction of both proteins modulates insulin and AKH signaling from cells of the corpus cardiaca.
+FBgn0036789	AstC-R2	Allatostatin C receptor 2	20190801	Allatostatin C receptor 2 (AstC-R2) encodes G-protein coupled receptor for the neuropeptide encoded by AstC.
+FBgn0038201	PK1-R	Pyrokinin 1 receptor	20190314	Pyrokinin 1 receptor (PK1-R) encodes a seven transmembrane G-protein coupled receptor. It is thought to be a receptor for the neuropeptides encoded by Capa and Lst. It regulates the production and release of insulin.
+FBgn0038140	PK2-R1	Pyrokinin 2 receptor 1	20190314	Pyrokinin 2 receptor 1 (PK2-R1) encodes a G protein-coupled receptor that binds the neuropeptide encoded by Hug with high affinity. After binding, a second messenger cascade is initiated in cells that are target for the product of Hug (mainly neurons of the central nervous system).
+FBgn0260753	Pdfr	Pigment-dispersing factor receptor	20190228	Pigment-dispersing factor receptor (Pdfr) encodes a G-Protein Coupled Receptor in the Family B class of GPCRs (Secretin Receptor-like) that can be activated by the product of Pdf. It has been implicated in regulation of circadian physiology, development of the flight motor system, and regulation of mating.
+FBgn0050106	CCHa1-R	CCHamide-1 receptor	-	Contributions welcome.
+FBgn0266429	AstA-R1	Allatostatin A receptor 1	20190801	Allatostatin A receptor 1 (AstA-R1) encodes a G-protein coupled receptor for the neuropeptide encoded by AstA.
+FBgn0085410	TrissinR	Trissin receptor	-	Contributions welcome.
+FBgn0259231	CCKLR-17D1	Cholecystokinin-like receptor at 17D1	20190711	Cholecystokinin-like receptor at 17D1 (CCKLR-17D1) encodes a neuropeptide receptor involved in locomotion and neuromuscular junction growth.
+FBgn0035610	Lkr	Leucokinin receptor	20181018	Leucokinin receptor (Lkr) encodes a 7-transmembrane domain G-protein-coupled receptor (GPCR) with the product of Lk as a ligand. It signals through intracellular calcium, and is implicated in ion regulation by the Malpighian tubules and in feeding control.
+FBgn0029723	Proc-R	Proctolin receptor	-	Contributions welcome.
+FBgn0039396	CCAP-R	Crustacean cardioactive peptide receptor	-	Contributions welcome.
+FBgn0030954	CCKLR-17D3	Cholecystokinin-like receptor at 17D3	20190307	Cholecystokinin-like receptor at 17D3 (CCKLR-17D3) encodes a class A transmembrane G protein coupled receptor that binds the neuropeptide ligand encoded by Dsk. It acts through the cAMP-PKA-CREB pathway and it is needed for the growth of neuromuscular junctions. It regulates food ingestion, satiety, hyperactivity, aggression and escape-related locomotion.
+FBgn0033932	Dh44-R1	Diuretic hormone 44 receptor 1	20181018	Diuretic hormone 44 receptor 1 (Dh44-R1) encodes a G-Protein Coupled Receptor of the Family B class of GPCRs (Secretin Receptor-like). It is involved in regulation of diuresis, sperm storage in females and circadian control of locomotion.
+FBgn0003255	rk	rickets	20190314	rickets (rk) encodes a G-protein coupled receptor that signals intracellularly using the second messenger cAMP. It binds the heterodimeric hormone bursicon and is developmentally important for molting-related behaviors. It is also required after adult emergence for cuticle hardening and melanization.
+FBgn0025595	AkhR	Adipokinetic hormone receptor	20190711	Adipokinetic hormone receptor (AkhR) encodes a G protein-coupled receptor for the hormone encoded by Akh. It modulates both lipid and carbohydrate homeostasis.
+FBgn0052843	Dh31-R	Diuretic hormone 31 Receptor	20190711	Diuretic hormone 31 Receptor (Dh31-R) encodes a protein that exhibits diuretic hormone receptor activity. It is involved in G protein-coupled receptor signaling pathwayS.
+FBgn0033744	Dh44-R2	Diuretic hormone 44 receptor 2	20190711	Diuretic hormone 44 receptor 2 (Dh44-R2) encodes a protein that exhibits diuretic hormone receptor activity. It is involved in G protein-coupled receptor signaling pathways, hormone-mediated signaling pathways, and response to salt stress.
+FBgn0004842	RYa-R	RYamide receptor	-	Contributions welcome.
+FBgn0029768	SPR	Sex peptide receptor	-	Contributions welcome.
+FBgn0036934	sNPF-R	short neuropeptide F receptor	20190314	short neuropeptide F receptor (sNPF-R) encodes the G-protein-coupled receptor for the  neuropeptide ligand encoded by sNPF, which utilizes the intracelluar ERK pathway or PKA-CREB pathway. It contributes to the regulation of growth, food intake, food-search behavior, appetitive memory, and sleep.
+FBgn0264562	Hr4	Hormone receptor 4	20190307	Hormone receptor 4 (Hr4) encodes a nuclear receptor that acts both upstream and downstream of the steroid hormone ecdysone. In the prothoracic gland the product of Hr4 acts as a repressor of ecdysone production. In other tissues, including the salivary gland and the fat body, Hr4 is transcriptionally induced by ecdysone to transduce the effects of the hormone.
+FBgn0036278	CrzR	Corazonin receptor	20190307	Corazonin receptor (CrzR) encodes a member of the Class A family of G-protein-coupled receptor that transduces the siganl of the neuropeptide encoded by Crz. It is involved in ethanol-induced behavior and ethanol metabolism.
+FBgn0016650	Lgr1	Leucine-rich repeat-containing G protein-coupled receptor 1	20190314	Leucine-rich repeat-containing G protein-coupled receptor 1 (Lgr1) encodes a Leucine-rich repeat-containing G protein-coupled receptor (LGR type A) that shows highest similarity with vertebrate glycoprotein hormone (TSH and Thyrostimulin, FSH, LH ) receptors.
+FBgn0038139	PK2-R2	Pyrokinin 2 receptor 2	20190314	Pyrokinin 2 receptor 2 (PK2-R2) encodes a G protein-coupled receptor that binds the neuropeptide encoded by Hug with high affinity. After binding, a second messenger cascade is initiated in cells that are target for the product of Hug (mainly neurons of the central nervous system).
+FBgn0038874	ETHR	ETHR	20181108	ETHR (ETHR) encodes two distinct G protein-coupled receptors through alternative splicing. During development, the receptors are essential in initiating the molt-related behaviors of ecdysis, and in adults they function to promote juvenile hormone signaling and reproduction.
+FBgn0283499	InR	Insulin-like receptor	-	Contributions welcome.
+## Finished report_gene_snapshots: Mon Mar 27 06:44:12 2023

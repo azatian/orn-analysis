@@ -1,0 +1,57 @@
+## FlyBase Gene Snapshot Report
+## Generated: Mon Mar 27 06:43:49 2023
+## Using datasource: dbi:Pg:dbname=fb_2023_02_reporting;host=flysql25;port=5432...
+## Genes that currently do not have a gene snapshot are included in this file and marked with "Contributions welcome." in the gene_snapshot_text column.
+##FBgn_ID	GeneSymbol	GeneName	datestamp	gene_snapshot_text
+FBgn0044051	Ilp1	Insulin-like peptide 1	-	Contributions welcome.
+FBgn0035282	CNMa	CNMamide	20181018	CNMamide (CNMa) encodes a short signaling peptide that shows a potent agonist activity toward the G-protein coupled receptor encoded by CNMaR.
+FBgn0000715	FMRFa	FMRFamide	20190321	FMRFamide (FMRFa) encodes a propeptide precursor that is processed to generate bioactive neuropeptides, many of which activate the G protein coupled receptor encoded by FMRFaR. Physiologically, FMRFa-encoded peptides contribute to neuromuscular physiology modulation and sleep regulation.
+FBgn0038343	Trissin	Trissin	-	Contributions welcome.
+FBgn0028418	Lk	Leucokinin	20190314	Leucokinin (Lk) encodes a neuropeptide that regulates water balance and food intake. Three groups of leucokinergic neurons are identified in the brain and abdominal ganglion of larvae and adults. Serotonin and insulin peptides have receptors in the abdominal leucokinergic neurons.
+FBgn0034935	Orcokinin	Orcokinin	20220310	Orcokinin (Orcokinin) encodes a neuropeptide whose knockdown causes a disinhibition of male courtship behavior, including the occurrence of male to male courtship, and a reduction in egg production.
+FBgn0013767	Crz	Corazonin	20190307	Corazonin (Crz) encodes a neuropeptide expressed in specific groups of neurons. It functions as a neurohormone and neuromodulator, which involves a G-protein-coupled receptor. Its roles include ethanol and trehalose metabolism, and male reproductive activity.
+FBgn0044050	Ilp3	Insulin-like peptide 3	20190711	Insulin-like peptide 3 (Ilp3) encodes a peptide involved in the insulin signaling pathway, the sugar-mediated activation of TOR signaling, sleep and mating behavior in females.
+FBgn0044046	Ilp7	Insulin-like peptide 7	20181108	Insulin-like peptide 7 (Ilp7) encodes a secreted insulin-like peptide that binds to the receptor encoded by InR to activate the insulin signaling pathway. It is expressed by small populations of neurons and plays roles in female egg-site selection, sleep duration, and nutrient-dependent food intake and tracheal growth.
+FBgn0042201	Nplp3	Neuropeptide-like precursor 3	-	Contributions welcome.
+FBgn0264810	Pburs	Partner of Bursicon	20190314	Partner of Bursicon (Pburs) encodes a cystine knot protein that dimerizes with the product of Burs to form the bursicon neurohormone that acts on the receptor encoded by rk. Bursicon neurohormone is released after adult emergence and is required for tanning and hardening of the cuticle and expansion of the wings.
+FBgn0039722	Capa	Capability	20190321	Capability (Capa) encodes three neuropeptides: two of the periviscerokinin family (CAPA-1 and CAPA-2) and one pyrokinin (pyrokinin-1) that activate the class A GPCRs encoded by CapaR and PK1-R respectively. Capa is expressed in neurosecretory cells innervating corpora cardiaca and abdomen. CAPA-1 and -2 act as diuretic hormones on the Malpighian tubules.
+FBgn0003034	SP	Sex Peptide	20190314	Sex Peptide (SP) encodes a peptide produced by the male accessory glands and transferred to females during mating. In mated females, it induces post-mating responses including increased egg production, decreased receptivity to mating, changes in juvenile hormone levels, in longevity and in sperm release from storage, and in feeding, digestion, and activity.
+FBgn0039007	CCAP	Crustacean cardioactive peptide	20190307	Crustacean cardioactive peptide (CCAP) encodes a conserved 9 amino acid neuropeptide. It is produced by 1-2 neurons in each segment of the ventral nervous system and is released during the shedding of the old exoskeleton (ecdysis). It also has cardioactive functions.
+FBgn0028374	Hug	Hugin	-	Contributions welcome.
+FBgn0035023	ITP	Ion transport peptide	20190307	Ion transport peptide (ITP) encodes three identified alternative splice-forms of neuropeptides, one short and two longer forms. The short isoform is produced in several neurosecretory neurons and interneurons in the CNS controling the evening peak of locomotor activity of the fly.
+FBgn0027109	NPF	neuropeptide F	20190314	neuropeptide F (NPF) encodes a 36-residue amidated peptide that signals through its receptor NPFR activating an inhibitory G-protein. Major functions of NPF signaling include the regulation of feeding and courtship behavior, metabolism, alcohol sensitivity, aggression as well as learning and memory. It further plays a role in the regulation of circadian behavior, in particular by modifying evening activity and free-running period.
+FBgn0053527	SIFa	SIFamide	-	Contributions welcome.
+FBgn0045038	Proc	Proctolin	20190711	Proctolin (Proc) encodes a neuropeptide precursor protein that binds the product of Proc-R and is involved in heart rate regulation.
+FBgn0085512	RYa	RYamide	-	Contributions welcome.
+FBgn0013323	Ptth	Prothoracicotropic hormone	20190314	Prothoracicotropic hormone (Ptth) encodes a secreted neuropeptide that regulates ecdysone production contributing to larval to pupal transition. It signals through Torso/RAS/Erk pathway. It also modulates larval light avoidance independently of ecdysone.
+FBgn0086782	amn	amnesiac	20190228	amnesiac (amn) encodes an apparent pre-pro-neuropeptide that functions to prolong medium-term memory. In the adult, it is almost entirely concentrated in two large neurosecretory cells (Dorsal Paired Median cells).
+FBgn0034140	Lst	Limostatin	20190314	Limostatin (Lst) encodes a peptide hormone produced by endocrine corpora cardiaca cells during starvation. It suppresses insulin production and secretion from insulin-producing cells by signaling through the G-protein coupled receptor encoded by PK1-R.
+FBgn0004552	Akh	Adipokinetic hormone	20190307	Adipokinetic hormone (Akh) encodes a peptide hormone secreted by the corpora cardiaca. It signals to the G-protein coupled receptor encoded by AkhR to regulate circulating hemolymph carbohydrates and stored lipid and glycogen in the fat body.
+FBgn0044048	Ilp5	Insulin-like peptide 5	20190711	Insulin-like peptide 5 (Ilp5) encodes a peptide involved in the insulin signaling pathway, sleep and mating behavior in females.
+FBgn0032048	Dh31	Diuretic hormone 31	20220310	Diuretic hormone 31 (Dh31) encodes a neuropeptide which regulates fluid secretion and controls the switch between feeding and courtship behaviour. Dh31 levels increase following the consumption of protein-rich food. In the brain Dh31 excites two distinct populations of neurons, responsible for two parallel pathways, one inhibiting feeding through AstC and the other promoting courtship through Crz.
+FBgn0033358	spab	space blanket	-	Contributions welcome.
+FBgn0028738	ETH	Ecdysis triggering hormone	20190307	Ecdysis triggering hormone (ETH) encodes two peptides (DrmETH1 and DrmETH2) involved in ecdysis. ETH depletion leads to respiratory and behavioral deficits, unsuccessful ecdysis and lethality.
+FBgn0063368	Gpb5	Glycoprotein hormone beta 5	20190711	Glycoprotein hormone beta 5 (Gpb5) encodes a ligand of the G protein-coupled receptor encoded by Lgr1. It is involved in hormone-mediated signaling.
+FBgn0035092	Nplp1	Neuropeptide-like precursor 1	-	Contributions welcome.
+FBgn0032337	AstCC	Allatostatin double C	-	Contributions welcome.
+FBgn0032336	AstC	Allatostatin C	20190711	Allatostatin C (AstC) encodes a myotropic factor involved in heart rate decrease.
+FBgn0037976	Tk	Tachykinin	-	Contributions welcome.
+FBgn0023178	Pdf	Pigment-dispersing factor	20190314	Pigment-dispersing factor (Pdf) encodes a secreted biologically active neuropeptide that acts via a specific G-protein-coupled receptor to trigger intracellular signaling. It has a prominent role in the physiology of circadian rhythms, as well as contributing to other processes such as control of flight and digestion.
+FBgn0036713	Mip	Myoinhibiting peptide precursor	-	Contributions welcome.
+FBgn0015591	AstA	Allatostatin A	-	Contributions welcome.
+FBgn0032840	sNPF	short neuropeptide F precursor	20190314	short neuropeptide F precursor (sNPF) encodes a protein that binds to the product of sNPF-R and activates ERK-Dilps signaling or the PKA-CREB pathway. Its roles include the regulation of cell and organism growth, carbohydrate metabolism, lifespan, feeding behavior, locomotion, circadian rhythm, and sleep.
+FBgn0044047	Ilp6	Insulin-like peptide 6	20190627	Insulin-like peptide 6 (Ilp6) encodes a protein that promotes growth during starvation.
+FBgn0000500	Dsk	Drosulfakinin	-	Contributions welcome.
+FBgn0012344	Dh44	Diuretic hormone 44	-	Contributions welcome.
+FBgn0036046	Ilp2	Insulin-like peptide 2	-	Contributions welcome.
+FBgn0038901	Burs	Bursicon	20190307	Bursicon (Burs) encodes a cystine knot protein that dimerizes with the product of Pburs to form the bursicon neurohormone. Bursicon neurohormone is released after adult emergence and acts on the receptor encoded by rk for tanning and hardening of the cuticle and expansion of the wings.
+FBgn0044049	Ilp4	Insulin-like peptide 4	20190627	Insulin-like peptide 4 (Ilp4) encodes a protein involved in larval feeding behavior.
+FBgn0036690	Ilp8	Insulin-like peptide 8	20190307	Insulin-like peptide 8 (Ilp8) encodes a divergent member of the insulin/IGF/relaxin-like family that acts through the relaxin receptor encoded by Lgr3. It coordinates growth status of tissues with developmental timing.
+FBgn0011581	Ms	Myosuppressin	-	Contributions welcome.
+FBgn0000564	Eh	Eclosion hormone	20180913	Eclosion hormone (Eh) encodes a neurohormone involved in the control of ecdysis. At each ecdysis, the neurohormone is released into the hemolymph where it serves to potentiate the release of the product of ETH through a positive endocrine feedback loop. The product of Eh is also released into the nervous system where it contributes to turning on ecdysis.
+FBgn0038147	CCHa2	CCHamide-2	-	Contributions welcome.
+FBgn0038199	CCHa1	CCHamide-1	-	Contributions welcome.
+FBgn0040717	Nplp4	Neuropeptide-like precursor 4	-	Contributions welcome.
+FBgn0261386	Gpa2	Glycoprotein hormone alpha 2	20190307	Glycoprotein hormone alpha 2 (Gpa2) encodes a protein that, when linked to the product of Gpb5, can activate the G protein-coupled receptor encoded by Lgr1.
+FBgn0287423	Nplp2	Neuropeptide-like precursor 2	-	Contributions welcome.
+## Finished report_gene_snapshots: Mon Mar 27 06:44:12 2023
